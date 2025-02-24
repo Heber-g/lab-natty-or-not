@@ -20,32 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Ebook de introdução à Biotecnologia
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+O projeto se trata de um ebook sobre biotecnologia, descrevendo o que é e quais seus impactos e importância para a humanidade
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Foi-se utilizado o ChatGPT para a geração e refinamentos de textos e idéias. Após isso, usou-se a Leonardo AI para gerar uma imagem de background para o texto. A capa, infelixmente ficou em espanhol, então optei por não utilizá-la.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Pedi para o ChatGPT escrever sobre biotecnologia e seus impactos na atualidade. Após isso juntei com o leve conhecimento que possuo do tema. No Leonardo AI, pedi para que fosse criada uma imagem cartoon referente a diversas coisas que tangem a biotecnologia.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+[Documento sem título.pdf](https://github.com/user-attachments/files/18949831/Documento.sem.titulo.pdf)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Criar uma imagem requer descrições bem específicas. Tive problema com a questão de escrever um etxto em português, onde a IA escreveu um texto em espanhol. Creio que uma descrição mais detalhada poderia ter gerado um resultado melhor para essa questão
 ```
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
