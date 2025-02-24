@@ -32,7 +32,7 @@ Foi-se utilizado o ChatGPT para a geração e refinamentos de textos e idéias. 
 Pedi para o ChatGPT escrever sobre biotecnologia e seus impactos na atualidade. Após isso juntei com o leve conhecimento que possuo do tema. No Leonardo AI, pedi para que fosse criada uma imagem cartoon referente a diversas coisas que tangem a biotecnologia.
 
 ## 🚀 Resultados
-[Documento sem título.pdf](https://github.com/user-attachments/files/18949831/Documento.sem.titulo.pdf)
+[Ebook.pdf](https://github.com/user-attachments/files/18949831/Documento.sem.titulo.pdf)
 
 
 ## 💭 Reflexão (Opcional)
